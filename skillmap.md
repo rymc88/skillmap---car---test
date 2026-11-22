@@ -22,5 +22,5 @@
 * tags: easy, enemies, kinds
 * next: 
 
-* url: https://github.com/rymc88/skillmap---car---test/blob/master/tutorial
+* url: https://github.com/rymc88/skillmap---car---test/master/tutorial
 * imageUrl: 

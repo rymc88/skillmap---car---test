@@ -11,7 +11,7 @@ have a license and are 16 years or older.
 
 ## Step 2
 
-
+Here is step two
 
 ```blocks
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
